@@ -12,3 +12,4 @@ Horní nadpis by měl měnit barvy a stejně tak i menu a menu ve footeru (menu 
 Pod šířkou 800px by z menu měla zmizet možnost "photo" a stejnojmenný nadpis1 + fotka.
 
 (ta tečka nad prvním menu mění barvy)
+Při změně velikosti okna, refreshnout stranku.
